@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtableenvironment.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\patri\\Documents\\programming\\Unity\\VR Table Environment\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR Table Environment [Testing]"
+        }
+      }
+    }
+  ]
+}
